@@ -12,6 +12,7 @@ This repository was generated using a complete, step‑by‑step Docker setup fo
 - [Troubleshooting](#troubleshooting)
 - [Notes](#notes)
 - [License](#license)
+- [Wiki](https://github.com/ninalamo/php/wiki)
 
 ## Overview
 
