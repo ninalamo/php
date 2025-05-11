@@ -1,8 +1,3 @@
-Below is a sample `README.md` that explains how the repository was generated, describes its Docker-based setup for Laravel and MySQL, and instructs users on how to run the project. You can use the file as-is or modify it according to your needs.
-
----
-
-```markdown
 # Laravel Docker MySQL Starter
 
 This repository was generated using a complete, step‑by‑step Docker setup for a Laravel application with MySQL. All necessary Docker configuration files, environment settings, and Laravel code were generated using the instructions contained in this README. **You no longer need to re-run these steps unless you want to start the project from scratch or significantly modify the setup.**
