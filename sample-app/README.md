@@ -1,4 +1,3 @@
-Below is a sample `README.md` that explains how the repository was generated, describes its Docker-based setup for Laravel and MySQL, and instructs users on how to run the project. You can use the file as-is or modify it according to your needs.
 
 ---
 
